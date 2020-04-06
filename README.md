@@ -33,7 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andreir14/pagePortofolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 <h1>Testing</h1>
-<a href="pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>	
+<a href="pdfs/YouTravel.pdf" class="image fit"><h3>PDF</h3></a>	
 
 ### Support or Contact
 
